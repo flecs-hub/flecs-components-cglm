@@ -1,0 +1,12 @@
+{
+    "id": "flecs.components.cglm",
+    "type": "package",
+    "value": {
+        "author": "Sander Mertens",
+        "description": "cglm component definitions",
+        "use": [
+            "flecs",
+            "cglm"
+        ]
+    }
+}
